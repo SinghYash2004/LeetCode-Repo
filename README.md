@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
 ## Array
@@ -54,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
