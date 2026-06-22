@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
 ## Array
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
