@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
