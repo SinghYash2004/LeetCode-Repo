@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
