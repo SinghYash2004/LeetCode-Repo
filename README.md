@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Segment Tree
