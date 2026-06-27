@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -138,6 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
