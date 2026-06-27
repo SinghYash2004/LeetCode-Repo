@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
