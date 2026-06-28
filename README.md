@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0283-move-zeroes) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
