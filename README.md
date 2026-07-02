@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
