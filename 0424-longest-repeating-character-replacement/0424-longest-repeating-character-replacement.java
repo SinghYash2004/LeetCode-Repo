@@ -5,7 +5,8 @@ class Solution {
         while(j<s.length()){
             maxfreq = Math.max(maxfreq, ++hash[s.charAt(j)-'A']);
             if((j-i+1) -maxfreq >k){
-                hash[s.charAt(i++)-'A']--;
+                hash[s.charAt(i)-'A']--;
+                i++;
             }
             maxlength = Math.max(maxlength, (j-i+1));
             j++;
