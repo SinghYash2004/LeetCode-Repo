@@ -4,7 +4,7 @@ class Solution {
         int[] hash = new int[26];
         while(j<s.length()){
             maxfreq = Math.max(maxfreq, ++hash[s.charAt(j)-'A']);
-            if((j-i+1) -maxfreq >k){
+            while((j-i+1) -maxfreq >k){
                 hash[s.charAt(i)-'A']--;
                 i++;
             }
@@ -13,5 +13,4 @@ class Solution {
         }
         return maxlength;
     } 
-    
 }
