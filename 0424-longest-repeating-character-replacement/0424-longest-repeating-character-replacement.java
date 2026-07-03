@@ -1,0 +1,16 @@
+class Solution {
+    public int characterReplacement(String s, int k) {
+        int i=0, j=0, maxlength = 0, maxfreq = 0;
+        int[] hash = new int[26];
+        while(j<s.length()){
+            maxfreq = Math.max(maxfreq, ++hash[s.charAt(j)-'A']);
+            if((j-i+1) -maxfreq >k){
+                hash[s.charAt(i++)-'A']--;
+            }
+            maxlength = Math.max(maxlength, (j-i+1));
+            j++;
+        }
+        return maxlength;
+    } 
+    
+}
