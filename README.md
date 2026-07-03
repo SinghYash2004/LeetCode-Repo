@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
