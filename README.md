@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
