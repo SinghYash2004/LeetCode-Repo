@@ -1,37 +1,34 @@
 class Solution {
-    public List<Integer> findAnagrams(String s2, String s1) {
-        List<Integer> list = new ArrayList<>();
-
-        if (s1.length() > s2.length()) {
+    public List<Integer> findAnagrams(String s, String p) {
+        
+        List<Integer> list =  new ArrayList<>();
+        if(p.length()>s.length()){
             return list;
         }
-
-        int[] s1freq = new int[26];
-
-        for (int i = 0; i < s1.length(); i++) {
-            s1freq[s1.charAt(i) - 'a']++;
+        int[] pfreq = new int[26];
+        for(int i = 0; i<p.length(); i++){
+            pfreq[p.charAt(i) - 'a']++;
         }
 
         int left = 0;
-        int right = left + s1.length();
+        int right = left + p.length();
 
-        int[] s2freq = new int[26];
-        for (int i = 0; i < right; i++) {
-            s2freq[s2.charAt(i) - 'a']++;
+        int[] sfreq = new int[26];
+        for(int i = left; i<right; i++){
+            sfreq[s.charAt(i) - 'a']++;
         }
-    
-        while (right <= s2.length()) {
-            boolean isPermut = Arrays.equals(s1freq, s2freq);
-            if (isPermut) {
+
+        while(right<=s.length()){
+            if(Arrays.equals(pfreq, sfreq)){
                 list.add(left);
             }
 
-            if (right == s2.length()) {
+            if(right == s.length()){
                 break;
             }
 
-            s2freq[s2.charAt(left++) - 'a']--;
-            s2freq[s2.charAt(right++) - 'a']++;
+            sfreq[s.charAt(left++) - 'a']--;
+            sfreq[s.charAt(right++) - 'a']++;
         }
         return list;
     }
