@@ -20,8 +20,7 @@ class Solution {
         }
 
         while (right <= s2.length()) {
-            boolean isPermut = Arrays.equals(s1freq, s2freq);
-            if (isPermut) {
+            if ( Arrays.equals(s1freq, s2freq)) {
                 return true;
             }
 
