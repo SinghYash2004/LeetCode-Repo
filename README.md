@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -285,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -303,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
