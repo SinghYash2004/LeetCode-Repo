@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
