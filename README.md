@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0238-product-of-array-except-self) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
