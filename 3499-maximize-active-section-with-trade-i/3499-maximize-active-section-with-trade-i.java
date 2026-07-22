@@ -4,7 +4,6 @@ class Solution {
         int n = arr.length;
 
         int count1 = 0;
-
         int block1 = 0;
         int block2 = 0;
         int maxx = 0;
