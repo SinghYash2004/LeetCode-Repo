@@ -1,6 +1,6 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int first = -1000, second = -1000, third = -1000;
+        int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE, third = Integer.MIN_VALUE;
         int min1 = 0, min2 = 0;
 
         for(int num:nums){
