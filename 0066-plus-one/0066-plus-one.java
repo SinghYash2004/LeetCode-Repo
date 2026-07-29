@@ -10,6 +10,7 @@ class Solution {
             }
         }
         int[] arr = new int[digits.length+1];
+        Arrays.fill(arr, 0);
         arr[0]=1;
         return arr;
     }
