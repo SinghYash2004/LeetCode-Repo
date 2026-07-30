@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
