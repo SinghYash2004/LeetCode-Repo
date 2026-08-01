@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3737-count-subarrays-with-majority-element-i) |
