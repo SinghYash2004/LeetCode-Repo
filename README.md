@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
