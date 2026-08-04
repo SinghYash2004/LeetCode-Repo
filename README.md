@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0724-find-pivot-index) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
