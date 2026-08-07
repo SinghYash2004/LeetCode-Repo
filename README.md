@@ -501,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
