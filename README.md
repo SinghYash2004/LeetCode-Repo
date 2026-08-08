@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0128-longest-consecutive-sequence) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
