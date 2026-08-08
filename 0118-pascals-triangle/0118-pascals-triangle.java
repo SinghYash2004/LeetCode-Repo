@@ -1,33 +1,17 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> list = new ArrayList<>();
-        int row = 0;
-        while(row<numRows){
-            if(row == 0){
-                list.add(List.of(1));
-                row++;
-            }else if(row == 1){
-                list.add(List.of(1, 1));
-                row++;
-            }else{
-                List<Integer> inlist = new ArrayList<>();
-                int len = 0;
-                while(len<=row){
-                    if(len == 0){
-                        inlist.add(1);
-                        len++;
-                    }else if(len == row){
-                        inlist.add(1);
-                        len++;
-                    }else{
-                        inlist.add(list.get(row-1).get(len-1) + list.get(row-1).get(len));
-                        len++;
-                    }
+        List<List<Integer>> result = new ArrayList<>();
+        for(int i = 0; i<numRows; i++){
+            List<Integer> list = new ArrayList<>();
+            for(int j = 0; j<i+1; j++){
+                if(j ==0 || j==i){
+                    list.add(1);
+                }else{
+                    list.add(result.get(i-1).get(j-1) + result.get(i-1).get(j));
                 }
-                list.add(inlist);
-                row++;
             }
+            result.add(list);
         }
-        return list;
+        return result;
     }
 }
