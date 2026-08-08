@@ -1,16 +1,16 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int sum = 0;
-        int num = 0;
+        long num = 0;
+        long sum = 0;
         int i = 0;
         while(n>0){
-            int digit = n %10;
-            if(digit != 0){
-                sum+=digit;
-                num += digit * Math.pow(10, i++);
+            int digit = n%10;
+            sum += digit;
+            if(digit!=0){
+                num  += digit * Math.pow(10, i++);
             }
-            n/=10;
+            n = n/10;
         }
-        return (long) sum * num;
+        return num*sum;
     }
 }
