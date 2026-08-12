@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0796-rotate-string) |
 ## Combinatorics
 |  |
 | ------- |
