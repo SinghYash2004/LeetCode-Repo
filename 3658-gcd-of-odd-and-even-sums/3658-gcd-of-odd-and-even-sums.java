@@ -1,12 +1,12 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int a = n * (n + 1);
-        int b = n * n;
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
+        int sumodd = n*n;
+        int sumeven = n*(n+1);
+        while(sumodd>0){
+            int temp = sumodd;
+            sumodd = sumeven % sumodd;
+            sumeven = temp;
         }
-        return a;
+        return sumeven;
     }
 }
