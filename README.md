@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1140-stone-game-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
