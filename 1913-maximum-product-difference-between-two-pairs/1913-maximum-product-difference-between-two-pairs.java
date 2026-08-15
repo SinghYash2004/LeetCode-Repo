@@ -1,7 +1,7 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
         int max1 = 0, max2=0;
-        int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
+        int min1 = 1000000, min2 = 1000000;
 
         for(int num:nums){
             if(num>=max1){
