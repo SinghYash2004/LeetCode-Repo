@@ -1,15 +1,18 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int count = 0, prefixsum = 0;
-        map.put(0,1);
+        return countmax(nums, goal)-countmax(nums, goal-1);
+    }
 
-        for(int num:nums){
-            prefixsum += num;
-            if(map.containsKey(prefixsum-goal)){
-                count+=map.get(prefixsum-goal);
+    public int countmax(int[] nums, int goal){
+        if(goal<0) return 0;
+        int left = 0, right = 0, count = 0, sum = 0;
+        while(right<nums.length){
+            sum += nums[right];
+            while(sum>goal){
+                sum -= nums[left++];
             }
-            map.put(prefixsum, map.getOrDefault(prefixsum, 0)+1);
+            count+=(right-left+1);
+            right++;
         }
         return count;
     }
