@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -565,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -578,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
