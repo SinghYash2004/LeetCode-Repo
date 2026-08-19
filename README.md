@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1903-largest-odd-number-in-string) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
