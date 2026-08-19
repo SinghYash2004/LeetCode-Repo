@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
