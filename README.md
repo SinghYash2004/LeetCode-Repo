@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0349-intersection-of-two-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
