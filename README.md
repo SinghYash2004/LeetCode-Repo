@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
