@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2206-divide-array-into-equal-pairs) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
