@@ -16,13 +16,13 @@ class Solution {
             len++;
             temp = temp.next;
         }
-        int pos = len - n;
-        if(pos==0){
+        int pos = len - n + 1;
+        if(pos==1){
             head = head.next;
             return head;
         }
         temp = head;
-        for(int i = 1;  i<pos; i++){
+        for(int i = 1;  i<pos-1; i++){
             temp = temp.next;
         }
         temp.next = temp.next.next;
