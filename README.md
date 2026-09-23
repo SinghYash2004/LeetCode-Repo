@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1991-find-the-middle-index-in-array) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
