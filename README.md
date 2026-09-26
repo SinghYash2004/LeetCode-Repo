@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1901-find-a-peak-element-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
