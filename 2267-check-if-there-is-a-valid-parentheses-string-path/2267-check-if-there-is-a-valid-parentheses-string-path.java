@@ -9,7 +9,6 @@ class Solution {
             return false;
         }
 
-        // Enough bits for balances 0 through length.
         int words = (length + 64) / 64;
         long[][] dp = new long[n][words];
 
@@ -24,14 +23,12 @@ class Solution {
                 if (row == 0 && col == 0) next[0] = 1L;
 
                 if (grid[row][col] == '(') {
-                    // Go backward so the previous word is still unchanged.
                     for (int word = words - 1; word >= 0; word--) {
                         long carry = word > 0
                             ? next[word - 1] >>> 63 : 0L;
                         next[word] = (next[word] << 1) | carry;
                     }
                 } else {
-                    // Go forward so the next word is still unchanged.
                     for (int word = 0; word < words; word++) {
                         long carry = word + 1 < words
                             ? next[word + 1] << 63 : 0L;
