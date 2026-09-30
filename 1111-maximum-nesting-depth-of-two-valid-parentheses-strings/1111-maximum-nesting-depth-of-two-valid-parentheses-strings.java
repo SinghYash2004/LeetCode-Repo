@@ -1,20 +1,19 @@
 class Solution {
-    public int[] maxDepthAfterSplit(String seq) {
-        int[] answer = new int[seq.length()];
+    public int[] maxDepthAfterSplit(String s) {
+        int n = s.length();
+        int[] ans = new int[n];
         int depth = 0;
-
-        for (int i = 0; i < seq.length(); i++) {
-
-            if (seq.charAt(i) == '(') {
+        for(int i=0;i<n;i++){
+            char ch = s.charAt(i);
+            if(ch == '('){
                 depth++;
-                answer[i] = depth % 2;
-            } 
-            else {
-                answer[i] = depth % 2;
+                ans[i] = depth%2;
+            }
+            else if(ch == ')'){
+                ans[i] = depth%2;
                 depth--;
             }
         }
-
-        return answer;
+        return ans;
     }
 }
