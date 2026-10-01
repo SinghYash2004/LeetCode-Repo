@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0205-isomorphic-strings) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0160-intersection-of-two-linked-lists) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
@@ -901,4 +904,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
