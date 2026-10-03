@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
