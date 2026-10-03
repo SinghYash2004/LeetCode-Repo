@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
