@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0781-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1096-brace-expansion-ii) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
