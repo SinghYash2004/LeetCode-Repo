@@ -3,18 +3,16 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for(char ch:s.toCharArray()){
-            if(!stack.empty()){
-                char c = stack.peek();
-                if(ch == ')' && c== '('){
+            if(stack.empty()){
+                stack.push(ch);
+            }else{
+                if(ch == ')' && stack.peek()=='('){
                     stack.pop();
                 }else{
                     stack.push(ch);
                 }
-            }else{
-                stack.push(ch);
             }
         }
-
         return stack.size();
     }
 }
