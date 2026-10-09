@@ -6,31 +6,26 @@ class Solution {
             if (stack.empty()) {
                 stack.push(num);
             } else {
-                if (num > 0 && stack.peek() > 0) {
+                if (stack.peek() > 0 && num > 0) {
                     stack.push(num);
-                } else if (num < 0 && stack.peek() < 0) {
+                } else if (stack.peek() < 0 && num < 0) {
                     stack.push(num);
-                } else {
+                }else{
                     boolean alive = true;
-
-                    while (!stack.empty() && stack.peek() > 0 && num < 0) {
-                        int num1 = stack.pop();
-
-                        if (num1 == Math.abs(num)) {
+                    while(!stack.empty() && stack.peek()>0 && num<0){
+                        if(stack.peek() > Math.abs(num)){
                             alive = false;
                             break;
-                        } 
-                        else if (num1 < Math.abs(num)) {
-                            alive = true;
-                        } 
-                        else {
-                            stack.push(num1);
+                        }else if(stack.peek() == Math.abs(num)){
                             alive = false;
+                            stack.pop();
                             break;
+                        }else{
+                            stack.pop();
                         }
                     }
 
-                    if (alive) {
+                    if(alive){
                         stack.push(num);
                     }
                 }
