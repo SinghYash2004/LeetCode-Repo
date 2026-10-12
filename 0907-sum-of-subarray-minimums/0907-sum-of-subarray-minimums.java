@@ -1,57 +1,65 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
-        long ans = 0;
+        int n = arr.length;
         int mod = 1_000_000_007;
 
-        int[] nse = nextSmallerIndex(arr);
-        int[] pse = prevSmallerIndex(arr);
+        int[] nse = nextSmallerElement(arr);
+        int[] pse = prevSmallerElement(arr);
 
-        for (int i = 0; i < arr.length; i++) {
-            long left = i - pse[i];
+        long ans = 0;
+        for(int i = 0; i<n; i++){
+            long left = i-pse[i];
             long right = nse[i] - i;
-
             ans = (ans + left * right * arr[i]) % mod;
         }
 
         return (int) ans;
     }
 
-    public int[] nextSmallerIndex(int[] arr) {
-        Stack<Integer> stack = new Stack<>();
-        int[] nse = new int[arr.length];
+    public int[] nextSmallerElement(int[] arr){
+        int n = arr.length;
+        int[] nse = new int[n];
 
-        for (int i = arr.length - 1; i >= 0; i--) {
-            while (!stack.empty() && arr[stack.peek()] >= arr[i]) {
+        Stack<Integer> stack = new Stack<>();
+
+        for(int i =n-1; i>=0; i--){
+            while(!stack.empty() && arr[stack.peek()]>=arr[i]){
                 stack.pop();
             }
 
-            if (stack.empty()) {
-                nse[i] = arr.length;
-            } else {
+            if(stack.empty()){
+                nse[i] = n;
+            }else{
                 nse[i] = stack.peek();
             }
+
             stack.push(i);
         }
-
         return nse;
     }
 
-    public int[] prevSmallerIndex(int[] arr) {
-        Stack<Integer> stack = new Stack<>();
-        int[] pse = new int[arr.length];
+    public int[] prevSmallerElement(int[] arr){
+        int n = arr.length;
+        int[] pse = new int[n];
 
-        for (int i = 0; i < arr.length; i++) {
-            while (!stack.empty() && arr[stack.peek()] > arr[i]) {
+        Stack<Integer> stack = new Stack<>();
+
+        for(int i =0; i<n; i++){
+            while(!stack.empty() && arr[stack.peek()]>arr[i]){
                 stack.pop();
             }
 
-            if (!stack.empty()) {
-                pse[i] = stack.peek();
-            } else {
+            if(stack.empty()){
                 pse[i] = -1;
+            }else{
+                pse[i] = stack.peek();
             }
+
             stack.push(i);
         }
+
         return pse;
     }
+
+    
 }
