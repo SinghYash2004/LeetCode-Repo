@@ -7,17 +7,15 @@ class Solution {
         int[] pse = prevSmallerElement(nums);
         int[] pge = prevGreaterElement(nums);
 
-        long maxTotal = 0;
-        long minTotal = 0;
+        long ans = 0;
 
         for(int i = 0; i<n; i++){
             long min = (long) nums[i] * (i-pse[i]) * (nse[i] - i);
             long max = (long) nums[i] * (i-pge[i]) * (nge[i] - i);
-            maxTotal += max;
-            minTotal += min;
+            ans += (max - min);
         }
 
-        return maxTotal - minTotal;
+        return ans;
     }
 
     public int[] nextSmallerElement(int[] arr){
