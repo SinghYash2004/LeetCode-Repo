@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -980,4 +982,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0075-sort-colors) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
