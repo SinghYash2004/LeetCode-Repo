@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0856-score-of-parentheses) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
