@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1331-rank-transform-of-an-array) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
