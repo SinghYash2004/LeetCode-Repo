@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2029-stone-game-ix) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2643-row-with-maximum-ones) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3498-reverse-degree-of-a-string) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3312-sorted-gcd-pair-queries) |
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SinghYash2004/LeetCode-Repo/tree/master/3518-smallest-palindromic-rearrangement-ii) |
