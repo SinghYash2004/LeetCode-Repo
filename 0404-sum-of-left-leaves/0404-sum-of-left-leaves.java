@@ -15,18 +15,18 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        return solve(root, 0);
-    }
+        int sum = 0;
+        if (root == null)
+            return sum;
 
-    public static int solve(TreeNode root, int sum){
-        if(root == null) return sum;
-
-        if(root.left != null){
-            if(root.left.left == null && root.left.right == null) sum+=root.left.val;
-            else sum = solve(root.left, sum);
+        if (root.left != null) {
+            if (root.left.left == null && root.left.right == null)
+                sum += root.left.val;
+            else
+                sum += sumOfLeftLeaves(root.left);
         }
 
-        sum = solve(root.right, sum);
+        sum += sumOfLeftLeaves(root.right);
         return sum;
     }
 }
